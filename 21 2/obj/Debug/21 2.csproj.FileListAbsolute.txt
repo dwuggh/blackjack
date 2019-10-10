@@ -1,0 +1,11 @@
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\bin\Debug\21 2.exe.config
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\obj\Debug\21 2.csprojResolveAssemblyReference.cache
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\obj\Debug\_21_2.login.resources
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\obj\Debug\_21_2.Properties.Resources.resources
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\obj\Debug\21 2.csproj.GenerateResource.Cache
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\bin\Debug\21 2.exe
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\bin\Debug\21 2.pdb
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\obj\Debug\21 2.exe
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\obj\Debug\21 2.pdb
+c:\users\邹昊江\documents\visual studio 2015\Projects\21 2\21 2\obj\Debug\_21_2.Main.resources
+C:\Users\邹昊江\Documents\Visual Studio 2015\Projects\21 2\21 2\obj\Debug\_21_2.register.resources
